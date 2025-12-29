@@ -1,0 +1,18 @@
+---
+:id: 184788064
+:submitters:
+- :name: Gabriel Anthonny Huanqui Flores
+  :email: gabriel.huanqui@utec.edu.pe
+- :name: 'María Paz Villarreal Velis '
+  :email: maria.villarreal@utec.edu.pe
+- :name: Michael Jacksier Odam Fernandez
+  :email: michael.odam@utec.edu.pe
+- :name: Marco Antonio Galindo Bendezu
+  :email: marco.galindo.b@utec.edu.pe
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-07-12 23:29:37.597395000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-07-12 16:29:37.597395000 Z
+:status: processed
+:score: 19.0
