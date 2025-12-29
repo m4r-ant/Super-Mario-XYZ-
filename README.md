@@ -14,7 +14,7 @@ Proyecto desarrollado para el curso:
 - Marco Antonio Galindo Bendezú
 
 - María Paz Villarreal Velis
-- 
+  
 ## 🚀 Características principales
 
 - Renderizado gráfico en consola con **colorama**
@@ -53,6 +53,16 @@ pip install colorama
 3️⃣ Ejecutar el juego
 python "trabajo de progra (2).py"
 
+## 🤝 Cómo contribuir
+
+1. Realiza un fork del repositorio
+
+2. Crea una rama nueva para tus cambios
+
+3. Sube tus modificaciones
+
+4. Abre un pull request
+   
 ### 1️⃣ Clonar el repositorio
 
 ```bash
